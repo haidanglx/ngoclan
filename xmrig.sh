@@ -1,2 +1,2 @@
 #!bin/bash
-nohup /./xmrig-new/xmrig &
+nohup /./ngoclan/xmrig &
